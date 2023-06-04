@@ -38,8 +38,5 @@
 
 # Основные команды второго семинара
 
-<<<<<<< HEAD
 > **git checkout ** [branch_neme]** – переход к другой ветке
-=======
 >  **git branch -d [branch_name]** - удалить ветку под названием branch_name
->>>>>>> deletingBranch
